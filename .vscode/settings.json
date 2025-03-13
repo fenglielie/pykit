@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./base/euler_riemann_exact/",
+        "./base/burgers_sin_exact/"
+    ]
+}
